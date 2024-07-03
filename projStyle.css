@@ -1,0 +1,25 @@
+/* Project */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.proj {
+  display: flex;
+  height: 400px;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.projpic {
+  width: 500px;
+  height: 350px;
+  /* border: 5px solid rgb(132, 131, 131); */
+  border-radius: 0px 0px 0px 66px;
+  box-shadow: -1px 0px 179px -60px rgba(143, 141, 141, 0.263);
+}
+
+.icon-link {
+  text-decoration: none;
+}
